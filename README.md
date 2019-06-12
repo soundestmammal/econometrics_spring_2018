@@ -12,6 +12,7 @@ Residential Real Estate can be divided into two primary actors:
 
 2. Firms - Real Estate Firms who own Residential Buildings.
 
+
 ### Renters
 
 The renters enter the market looking for an apartment to rent. They make their decision based on a variety of factors such as distance to locations of interest (LOI) such as work, entertainment, public transportation. Based on the bundle of these factors, they formulate a Willingness To Pay (WTP), which is the maximum they would be willing to pay for a given apartment. 
@@ -23,6 +24,8 @@ I assume that the firms are rational profit-maximizers. The profit function for 
 
 
 Profit = Total Revenue - Total Costs
+
+
 Profit = (Price * Quantity) - (Fixed Costs + Variable Costs)
 
 ### Tasks
