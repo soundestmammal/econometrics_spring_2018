@@ -31,7 +31,7 @@ Profit = (Price * Quantity) - (Fixed Costs + Variable Costs)
 ### Tasks
 
 
-Current Version 0.1
+Current Version 0.2
 
 
 - [x] Start README.md 
@@ -44,6 +44,7 @@ Current Version 0.1
 - [ ] Reformat Tables
 - [ ] Add data to the REPO
 - [ ] Create a notebook
+- [ ] Add page numbers
 
 
 
