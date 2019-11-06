@@ -36,7 +36,7 @@ Current Version 0.1
 
 - [x] Start README.md 
 - [x] Upload Rough Draft of paper
-- [ ] Paper needs revision. (Successful revision -> 0.2)
+- [x] Paper needs revision. (Successful revision -> 0.2)
 - [ ] New Title
 - [ ] Proper Formatting of Heading
 - [ ] Cover Page
